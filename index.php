@@ -4,7 +4,7 @@ Add colours to life
 
 
 <?php
-$url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw0xcCp_7PR4ih9--76Z1-bO&ust=1592295385458000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID8xNiwg-oCFQAAAAAdAAAAABAT"
+$url="https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"
 $image=file_get_contents("$url");
 echo $image;
 
